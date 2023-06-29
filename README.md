@@ -1,18 +1,31 @@
 
 <div id="header" align="center">
-<h1>Hi there 👋, I'm Roman</h1>
+<h1>Hi there  I'm Roman 👋</h1>
 <h3> I'm learning Java language and other technologies</h3>
 </div>
 
-- 💪 I like to write code
-- 🎓 Education: MIET, Bachelor’s and Master’s degree 
-in Design and technology of electronic tools (2016-2022)
-- 🥅 I am constantly learning new things
-- 📫 Reach me by 
-<a href="https://t.me/Roma5n">
-<img src="https://img.shields.io/badge/-@Roma5n-blue?style=flat&logo=Telegram&logoColor=white" alt="Telegram"/>
-</a>
+<div id="badges" align="center">
+  <a href="https://t.me/Roma5n">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
 
+---
+###  🛠️ About Me :
+- 💪 I like to write code
+- 🎓 Education: MIET, Bachelor’s and Master’s degree in Design and technology of electronic tools (2016 - 2022)
+- 🥅 I am constantly learning new things
+- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Roma5n-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Roma5n)
+---
+
+### ✨ My Projects:
+1. [Tracker (Java core console application without frameworks) ](https://github.com/GrnDev1/job4j_tracker)
+2. [Job grabber (HTML Parser using JSOP)](https://github.com/GrnDev1/job4j_grabber)
+
+# <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40"/>  My Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GrnDev1&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrnDev1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ### 🧰 Languages and Tools:
 <a href="#"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white" width="55"></a>
 <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" width="93"></a>
