@@ -19,8 +19,9 @@
 ---
 
 ### ✨ My Projects:
-1. [Tracker (Java core console application without frameworks) ](https://github.com/GrnDev1/job4j_tracker)
+1. [JMS - Pooh (Analogue of an asynchronous queue)](https://github.com/GrnDev1/job4j_pooh#режим-очередь)
 2. [Job grabber (HTML Parser using JSOP)](https://github.com/GrnDev1/job4j_grabber)
+3. [Tracker (Java core console application without frameworks) ](https://github.com/GrnDev1/job4j_tracker)
 
 # <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40"/>  My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GrnDev1&theme=dark&background=000000)](https://git.io/streak-stats)
