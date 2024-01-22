@@ -4,7 +4,7 @@
 
 My name is Roman Gajibabaev and I'm a Java developer.
 
-You can write me on  [![Telegram](/images/tg1.png)](https://t.me/Roma5n)
+You can write me on  [![Telegram](/images/tg1.png)](https://t.me/grndev)
 
 ---
 
@@ -23,6 +23,15 @@ You can write me on  [![Telegram](/images/tg1.png)](https://t.me/Roma5n)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrnDev1&title_color=3c7ebb&text_color=515151&icon_color=b92f20&bg_color=e4e4e4&langs_count=3)](https://github.com/GrnDev1)
 
 ## My Projects
+
+>
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=GrnDev1&repo=job4j_accidents&title_color=3c7ebb&text_color=515151&icon_color=b92f20&bg_color=e4e4e4)](https://github.com/GrnDev1/job4j_accidents)
+
+>
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=GrnDev1&repo=job4j_todo&title_color=3c7ebb&text_color=515151&icon_color=b92f20&bg_color=e4e4e4)](https://github.com/GrnDev1/job4j_todo)
+
 
 >
 
