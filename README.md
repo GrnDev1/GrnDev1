@@ -26,7 +26,7 @@ You can write me on  [![Telegram](/images/tg1.png)](https://t.me/grndev)
 
 >
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=GrnDev1&repo=job4j_accidents&title_color=3c7ebb&text_color=515151&icon_color=b92f20&bg_color=e4e4e4)](https://github.com/GrnDev1/job4j_accidents)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=GrnDev1&repo=job4j_url_shortcut&title_color=3c7ebb&text_color=515151&icon_color=b92f20&bg_color=e4e4e4)](https://github.com/GrnDev1/job4j_url_shortcut)
 
 >
 
